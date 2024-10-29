@@ -1,1 +1,2 @@
 # OOP-practice
+**Library Management system** A simple Library Management System to practice the core concepts of OOP. Library Management: Allows adding, borrowing, and returning books. Each book has Title, Unique ID, Publication year, Author, ISBN, Copies available Member Management: Each member can Borrow up to a maximum of 3 books. The system updates the number of copies available, and the number of books borrowed when the member borrows and return books
